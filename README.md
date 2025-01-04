@@ -3,7 +3,7 @@
       <br />
       <hr />
      📊 Data Visualization
-</h1>
+</h1> 
 <h3>📚 About Data</h3>
 <p>Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.</p>
 <p>📍 The dataset is available via the following link: <a href="https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales?select=Coffee+Shop+Sales.xlsx">Kaggle Link</a>.
